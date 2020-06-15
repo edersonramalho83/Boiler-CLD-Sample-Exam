@@ -1,0 +1,4 @@
+Timestamp, Event, Event Data
+15/06/2020 19:34:25,Boiler Initialized,0
+15/06/2020 19:34:27,Boiler Initialized,0
+15/06/2020 19:34:29,Boiler Initialized,0
